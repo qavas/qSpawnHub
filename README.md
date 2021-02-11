@@ -20,5 +20,5 @@ There are none.
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- A little help from APxTony
+- A little help from [@APxTony](https://github.com/apxtony)
 - Inspired by https://github.com/Vortex-z/Holograms-Floating-Text
