@@ -10,7 +10,7 @@ A simple script that shows information about your server for new players that jo
 ***Currently** only the observatory spawn point in your FiveM Server.*
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-Documentation [website](https://qtprod.com/qSpawnHub)
+Documentation on my [website](https://qtprod.com/qSpawnHub)
 
 ### Dependencies
 There are none.
