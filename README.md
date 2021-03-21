@@ -1,6 +1,4 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/Xen2no3.png" alt="qSpawnHub"></a>
 </p>
 
 <h3 align="center">qSpawnHub</h3>
